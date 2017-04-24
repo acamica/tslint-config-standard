@@ -1,7 +1,7 @@
 {
-  "name": "tslint-config-standard",
-  "version": "5.0.2",
-  "description": "A TSLint config for JavaScript Standard Style",
+  "name": "tslint-config-acamica",
+  "version": "1.0.0",
+  "description": "A TSLint config for Acamica Style",
   "main": "tslint.js",
   "files": [
     "tslint.js",
@@ -16,13 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/blakeembrey/tslint-config-standard.git"
+    "url": "git@github.com:acamica/tslint-config-acamica.git"
   },
   "keywords": [
     "tslint",
     "config",
-    "standard",
-    "standardjs",
     "typescript",
     "ts"
   ],
@@ -32,13 +30,8 @@
     "url": "http://blakeembrey.me"
   },
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/blakeembrey/tslint-config-standard/issues"
-  },
-  "homepage": "https://github.com/blakeembrey/tslint-config-standard",
   "devDependencies": {
     "blue-tape": "^1.0.0",
-    "standard": "^10.0.0",
     "tap-spec": "^4.1.1",
     "tslint": "^5.0.0",
     "typescript": "^2.0.3"

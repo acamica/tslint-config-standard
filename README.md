@@ -1,15 +1,15 @@
-# TSLint Config Standard
+# TSLint Config for acamica
 
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build status][travis-image]][travis-url]
 
-> A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [JavaScript Standard Style](http://standardjs.com/)
+> A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for Acamica organization
 
 ## Installation
 
 ```sh
-npm install tslint-config-standard --save
+pm install --save-dev tslint-config-acamica
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ In `tslint.json`:
 
 ```json
 {
-  "extends": "tslint-config-standard"
+  "extends": "tslint-config-acamica"
 }
 ```
 
@@ -36,10 +36,3 @@ Many [**TSLint ESLint Rules**](https://github.com/buzinas/tslint-eslint-rules#ru
 ## License
 
 Apache 2.0
-
-[npm-image]: https://img.shields.io/npm/v/tslint-config-standard.svg?style=flat
-[npm-url]: https://npmjs.org/package/tslint-config-standard
-[downloads-image]: https://img.shields.io/npm/dm/tslint-config-standard.svg?style=flat
-[downloads-url]: https://npmjs.org/package/tslint-config-standard
-[travis-image]: https://img.shields.io/travis/blakeembrey/tslint-config-standard.svg?style=flat
-[travis-url]: https://travis-ci.org/blakeembrey/tslint-config-standard

@@ -52,13 +52,16 @@ module.exports = {
           true,
           "ban-keywords"
       ],
+      "ordered-imports": true,
+      "no-debugger": true,
       "whitespace": [
           true,
           "check-branch",
           "check-decl",
           "check-operator",
           "check-separator",
-          "check-type"
+          "check-type",
+          "check-module"
       ]
   }
 }

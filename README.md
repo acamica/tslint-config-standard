@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/tslint-config-acamica.svg?style=flat)](https://npmjs.org/package/tslint-config-acamica)
 [![NPM downloads](https://img.shields.io/npm/dm/tslint-config-acamica.svg?style=flat)](https://npmjs.org/package/tslint-config-acamica)
-[![Build status](https://img.shields.io/travis/blakeembrey/tslint-config-acamica.svg?style=flat)](https://travis-ci.org/blakeembrey/tslint-config-acamica)
+[![Build status][travis-image]][travis-url]
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [Acamica](https://github.com/acamica) organization
 

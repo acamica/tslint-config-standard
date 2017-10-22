@@ -1,15 +1,15 @@
-# TSLint Config for acamica
+# TSLint Config Acamica
 
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][downloads-image]][downloads-url]
-[![Build status][travis-image]][travis-url]
+[![NPM version](https://img.shields.io/npm/v/tslint-config-acamica.svg?style=flat)](https://npmjs.org/package/tslint-config-acamica)
+[![NPM downloads](https://img.shields.io/npm/dm/tslint-config-acamica.svg?style=flat)](https://npmjs.org/package/tslint-config-acamica)
+[![Build status](https://img.shields.io/travis/blakeembrey/tslint-config-acamica.svg?style=flat)](https://travis-ci.org/blakeembrey/tslint-config-acamica)
 
-> A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for Acamica organization
+> A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [Acamica](https://github.com/acamica) organization
 
 ## Installation
 
 ```sh
-pm install --save-dev tslint-config-acamica
+npm install --save-dev tslint-config-acamica
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ In `tslint.json`:
 }
 ```
 
-**P.S.** Some TSLint rules may require the use of `--type-check` (and `--project`).
+**P.S.** Some TSLint rules may require the use of `--type-check` and `--project`.
 
 ### Rules
 

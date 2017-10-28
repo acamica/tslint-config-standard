@@ -13,6 +13,7 @@ module.exports = {
       "interface-name": [true, "always-prefix"],
       "linebreak-style": [true, "LF"],
       "no-duplicate-variable": true,
+      "no-unused-variable": true,
       "no-eval": true,
       "no-internal-module": true,
       "no-trailing-whitespace": true,

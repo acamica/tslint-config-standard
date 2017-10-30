@@ -13,6 +13,8 @@ module.exports = {
       "interface-name": [true, "always-prefix"],
       "linebreak-style": [true, "LF"],
       "no-duplicate-variable": true,
+      "no-unused-variable": true,
+      "cyclomatic-complexity": [true, 3],
       "no-eval": true,
       "no-internal-module": true,
       "no-trailing-whitespace": true,
